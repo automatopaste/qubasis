@@ -1,0 +1,8 @@
+{
+    "item.qubasis.persium": "Persium",
+    "item.qubasis.persium_ingot": "Persium Ingot",
+    "block.qubasis.persium_ore": "Persium Ore",
+    "block.qubasis.persium_block": "Persium Block",
+    "block.qubasis.charging_dock": "Charging Dock",
+    "message.charging_dock": "Yeah this is some text"
+}

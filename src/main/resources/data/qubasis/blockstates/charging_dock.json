@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "qubasis:block/charging_dock"
+    },
+    "facing=south": {
+      "model": "qubasis:block/charging_dock",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "qubasis:block/charging_dock",
+      "y": 270
+    },
+    "facing=east": {
+      "model": "qubasis:block/charging_dock",
+      "y": 90
+    }
+  }
+}

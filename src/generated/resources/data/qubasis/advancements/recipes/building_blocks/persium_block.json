@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "qubasis:persium_block"
+    ]
+  },
+  "criteria": {
+    "persium_ingot": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "qubasis:persium_block"
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "qubasis:persium_block"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "persium_ingot",
+      "has_the_recipe"
+    ]
+  ]
+}

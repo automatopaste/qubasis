@@ -1,0 +1,94 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "qubasis:block/persium_ore",
+        "uvlock": true
+      },
+      {
+        "model": "qubasis:block/persium_ore",
+        "y": 90,
+        "uvlock": true
+      },
+      {
+        "model": "qubasis:block/persium_ore",
+        "y": 180,
+        "uvlock": true
+      },
+      {
+        "model": "qubasis:block/persium_ore",
+        "y": 270,
+        "uvlock": true
+      },
+      {
+        "model": "qubasis:block/persium_ore",
+        "x": 90,
+        "uvlock": true
+      },
+      {
+        "model": "qubasis:block/persium_ore",
+        "x": 90,
+        "y": 90,
+        "uvlock": true
+      },
+      {
+        "model": "qubasis:block/persium_ore",
+        "x": 90,
+        "y": 180,
+        "uvlock": true
+      },
+      {
+        "model": "qubasis:block/persium_ore",
+        "x": 90,
+        "y": 270,
+        "uvlock": true
+      },
+      {
+        "model": "qubasis:block/persium_ore",
+        "x": 180,
+        "uvlock": true
+      },
+      {
+        "model": "qubasis:block/persium_ore",
+        "x": 180,
+        "y": 90,
+        "uvlock": true
+      },
+      {
+        "model": "qubasis:block/persium_ore",
+        "x": 180,
+        "y": 180,
+        "uvlock": true
+      },
+      {
+        "model": "qubasis:block/persium_ore",
+        "x": 180,
+        "y": 270,
+        "uvlock": true
+      },
+      {
+        "model": "qubasis:block/persium_ore",
+        "x": 270,
+        "uvlock": true
+      },
+      {
+        "model": "qubasis:block/persium_ore",
+        "x": 270,
+        "y": 90,
+        "uvlock": true
+      },
+      {
+        "model": "qubasis:block/persium_ore",
+        "x": 270,
+        "y": 180,
+        "uvlock": true
+      },
+      {
+        "model": "qubasis:block/persium_ore",
+        "x": 270,
+        "y": 270,
+        "uvlock": true
+      }
+    ]
+  }
+}

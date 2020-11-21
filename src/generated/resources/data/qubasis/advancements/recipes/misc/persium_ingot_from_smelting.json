@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "qubasis:/persium_ingot_from_smelting"
+    ]
+  },
+  "criteria": {
+    "has_persium_ore": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "qubasis:persium_ore"
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "qubasis:/persium_ingot_from_smelting"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_persium_ore",
+      "has_the_recipe"
+    ]
+  ]
+}

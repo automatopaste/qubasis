@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "qubasis:persium_ore"
+  },
+  "result": "qubasis:persium_ingot",
+  "experience": 12.0,
+  "cookingtime": 200
+}

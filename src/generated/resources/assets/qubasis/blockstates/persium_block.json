@@ -1,0 +1,94 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "qubasis:block/persium_block",
+        "uvlock": true
+      },
+      {
+        "model": "qubasis:block/persium_block",
+        "y": 90,
+        "uvlock": true
+      },
+      {
+        "model": "qubasis:block/persium_block",
+        "y": 180,
+        "uvlock": true
+      },
+      {
+        "model": "qubasis:block/persium_block",
+        "y": 270,
+        "uvlock": true
+      },
+      {
+        "model": "qubasis:block/persium_block",
+        "x": 90,
+        "uvlock": true
+      },
+      {
+        "model": "qubasis:block/persium_block",
+        "x": 90,
+        "y": 90,
+        "uvlock": true
+      },
+      {
+        "model": "qubasis:block/persium_block",
+        "x": 90,
+        "y": 180,
+        "uvlock": true
+      },
+      {
+        "model": "qubasis:block/persium_block",
+        "x": 90,
+        "y": 270,
+        "uvlock": true
+      },
+      {
+        "model": "qubasis:block/persium_block",
+        "x": 180,
+        "uvlock": true
+      },
+      {
+        "model": "qubasis:block/persium_block",
+        "x": 180,
+        "y": 90,
+        "uvlock": true
+      },
+      {
+        "model": "qubasis:block/persium_block",
+        "x": 180,
+        "y": 180,
+        "uvlock": true
+      },
+      {
+        "model": "qubasis:block/persium_block",
+        "x": 180,
+        "y": 270,
+        "uvlock": true
+      },
+      {
+        "model": "qubasis:block/persium_block",
+        "x": 270,
+        "uvlock": true
+      },
+      {
+        "model": "qubasis:block/persium_block",
+        "x": 270,
+        "y": 90,
+        "uvlock": true
+      },
+      {
+        "model": "qubasis:block/persium_block",
+        "x": 270,
+        "y": 180,
+        "uvlock": true
+      },
+      {
+        "model": "qubasis:block/persium_block",
+        "x": 270,
+        "y": 270,
+        "uvlock": true
+      }
+    ]
+  }
+}

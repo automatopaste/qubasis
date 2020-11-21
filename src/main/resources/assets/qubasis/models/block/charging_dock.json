@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "down": "qubasis:block/charging_dock_bottom",
+    "up": "qubasis:block/charging_dock_top",
+    "north": "qubasis:block/charging_dock_front",
+    "south": "qubasis:block/charging_dock_side",
+    "east": "qubasis:block/charging_dock_side",
+    "west": "qubasis:block/charging_dock_side",
+    "particle": "qubasis:block/charging_dock_side"
+  }
+}
